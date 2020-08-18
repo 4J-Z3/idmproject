@@ -1,0 +1,18 @@
+Let's make a game!
+ 
+Resources
+  *tbd
+    name:tbd
+    desc:tbd
+ 
+name:tbd
+author:4J
+desc:tbd
+created:17/08/20
+updated:17/08/20
+version:1.0
+ 
+Settings
+ 
+building cost increase:10%
+building cost refund:50%
